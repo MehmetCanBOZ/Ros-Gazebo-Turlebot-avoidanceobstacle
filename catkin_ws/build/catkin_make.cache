@@ -1,0 +1,2 @@
+controller_pckg:turtlebot3_fake:turtlebot3_gazebo:turtlebot3_simulations
+-DCATKIN_DEVEL_PREFIX=/home/mc/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mc/catkin_ws/install -G Unix Makefiles

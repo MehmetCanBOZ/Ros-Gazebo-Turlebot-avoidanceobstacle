@@ -1,0 +1,8 @@
+prefix=/home/mc/catkin_ws/install
+
+Name: controller_pckg
+Description: Description of controller_pckg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
